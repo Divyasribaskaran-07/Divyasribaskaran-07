@@ -1,5 +1,7 @@
 # Hi, I'm Divya Sri
+
 B.Tech IT Student | Aspiring Full-Stack Developer | Building & Learning
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-sri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_d._.sri_) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:divyasribaskaran07@gmail.com) 
 
